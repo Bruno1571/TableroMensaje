@@ -55,7 +55,7 @@ ROOT_URLCONF = 'TableroMensaje.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:\\Users\\bruno\\OneDrive\\Desktop\\uni2024\\Web2\\TableroMensaje\\mensajes\\templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
